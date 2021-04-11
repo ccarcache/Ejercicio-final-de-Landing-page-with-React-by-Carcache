@@ -11,7 +11,7 @@ export function App() {
 			<Navbar />
 			<Jumbo />
 			<Card />
-			<Footer text="Copyright@YourWebsite2019" />
+			<Footer text="Copyright@Your Website 2021" />
 		</div>
 	);
 }

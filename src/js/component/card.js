@@ -8,7 +8,7 @@ export default function Card() {
 					<div className="col-3">
 						<div className="card text-center m-2">
 							<img
-								src="https://2.bp.blogspot.com/-D5tDKLxiayo/XR7Kynlh1xI/AAAAAAAAmOU/3aBJLgW3-_49PZXmms67f6C1LW9TIgXIACLcBGAs/s1600/Death_Note_sin_relleno_orden_cronologico.jpg"
+								src="https://as01.epimg.net/meristation/imagenes/2019/07/15/noticias/1563187625_893025_1563187685_noticia_normal.jpg"
 								className="card-img-top"
 								alt="..."></img>
 							<div className="card-body">
@@ -19,7 +19,8 @@ export default function Card() {
 									suscipit accusantium. Aspernatur consectetur
 									ratione, quod eius, obcaecati officiis
 									corporis id dolorem, non nemo facilis! Quia,
-									odio. Voluptatum, minus?
+									odio. Voluptatum, minus? son de mi cal pata
+									real rationi, quod eius. lella
 								</p>
 							</div>
 							<div className="card-footer">
@@ -40,7 +41,7 @@ export default function Card() {
 					<div className="col-3">
 						<div className="card text-center m-2">
 							<img
-								src="https://sm.ign.com/t/ign_latam/screenshot/default/elfen_4sfw.1280.jpg"
+								src="https://cdn.superaficionados.com/imagenes/shazam-3-cke.jpg"
 								className="card-img-top"
 								alt="..."></img>
 							<div className="card-body">
@@ -71,7 +72,7 @@ export default function Card() {
 					<div className="col-3">
 						<div className="card text-center m-2">
 							<img
-								src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlJhWy0mFLCrRrMhsGQdRjNCECR91Zs8NGSw&usqp=CAU"
+								src="https://img.ecartelera.com/noticias/fotos/38700/38703/1.jpg"
 								className="card-img-top"
 								alt="..."></img>
 							<div className="card-body">
@@ -102,7 +103,7 @@ export default function Card() {
 					<div className="col-3">
 						<div className="card text-center m-2">
 							<img
-								src="https://i.pinimg.com/originals/24/f8/8b/24f88b00f6ad99e26cd91f87a383de4d.jpg"
+								src="https://img.ecartelera.com/noticias/fotos/52500/52538/1.jpg"
 								className="card-img-top"
 								alt="..."></img>
 							<div className="card-body">
@@ -113,7 +114,8 @@ export default function Card() {
 									Consequatur optio nam nulla atque
 									laudantium! Harum quia, commodi quidem
 									exercitationem error repellat dicta
-									veritatis natus cupiditate distinctio.
+									veritatis natus cupiditate distinctio.Parti
+									meristation incidunt locusmar.
 								</p>
 							</div>
 							<div className="card-footer">
